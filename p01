@@ -45,7 +45,7 @@ jspm_packages/
 # TypeScript v1 declaration files #0
 typings/
 
-# TypeScript cache
+# TypeScript caches
 *.tsbuildinfo
 
 # Optional npm cache directory
