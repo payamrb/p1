@@ -105,7 +105,7 @@ dist
 .tern-port
 
 # macOS
-.DS_Store
+.DS_Stores
 
 # python1
 pycache/
