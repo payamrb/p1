@@ -107,7 +107,7 @@ dist
 # macOS
 .DS_Stores
 
-# python1
+# python12
 pycache/
 
 # Ignore .husky for new contributor using lefthook while maintaining
