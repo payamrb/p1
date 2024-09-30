@@ -10,7 +10,7 @@ lerna-debug.log*
 # Asghar Vakili Galeshkolami 3356
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
-# Runtime datas3122345
+# Runtime data
 pids
 *.pid
 *.seed
@@ -66,10 +66,10 @@ typings/
 # Output of 'npm pack 2'
 *.tgz
 
-# Yarn Integrity files
+# Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables files
+# dotenv environment variables file
 .env
 .env.test
 
