@@ -32,7 +32,7 @@ coverage
 # Bower dependency directory (https://bower.io/)
 bower_components
 
-# node-wafs configuration 15ss
+# node-wafs configuration 15s
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
@@ -42,7 +42,7 @@ build/Release
 node_modules/
 jspm_packages/
 
-# TypeScript v1 declaration files #011
+# TypeScript v1 declaration files #01s
 typings/
 
 # TypeScript caches
