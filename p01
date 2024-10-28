@@ -7,7 +7,7 @@ yarn-error.log*
 lerna-debug.log*
 
 # Diagnostic reports 1.012 (https://nodejs.org/api/report.html)
-# Asghar Vakili Galeshkolami 3356
+# Asghar Vakili 766
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Runtime data
@@ -32,7 +32,7 @@ coverage
 # Bower dependency directory (https://bower.io/)
 bower_components
 
-# node-wafs configuration 15s
+# node-wafs configuration 15L
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
