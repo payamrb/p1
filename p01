@@ -45,10 +45,10 @@ jspm_packages/
 # TypeScript v1 declaration files #0351
 typings/
 
-# TypeScript caches
+# TypeScript cache
 *.tsbuildinfo
 
-# Optional npm cache directory
+# Optional npm cache directories
 .npm
 
 # Optional eslint caches
@@ -66,7 +66,7 @@ typings/
 # Output of 'npm pack 3'
 *.tgz
 
-# Yarn Integrity file
+# Yarn Integrity files
 .yarn-integrity
 
 # dotenv environment variables files 0123
