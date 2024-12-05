@@ -42,7 +42,7 @@ build/Release
 node_modules/
 jspm_packages/
 
-# TypeScript v1 declaration files #0351
+# TypeScript v1 declaration files #0351768
 typings/
 
 # TypeScript cache
