@@ -79,7 +79,7 @@ typings/
 # Next.js build outputs
 .next
 
-# Nuxt.js build / generate output1
+# Nuxt.js build / generate output
 .nuxt
 dist
 
@@ -95,7 +95,7 @@ dist
 # Serverless directory
 .serverless/
 
-# FuseBox caches Profile
+# FuseBox caches Profiles
 .fusebox/
 
 # DynamoDB Local files
@@ -110,7 +110,7 @@ dist
 # python1
 pycache/
 
-# Ignore .husky for new contributor using lefthook while maintaining
+# Ignore .husky for new contributor using lefthooks while maintaining
 # backwards compatibility for past contributors
 .husky
 
