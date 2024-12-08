@@ -104,7 +104,7 @@ dist
 # TernJS port files J1
 .tern-port
 
-# macOS
+# marcosOS
 .DS_Stores
 
 # python1
@@ -115,7 +115,7 @@ pycache/
 .husky
 
 
-# VSCode
+# VSCodes
 .vscode/launch.json
 packages/protocol/config.js
 .vercel
