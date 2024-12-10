@@ -90,9 +90,9 @@ dist
 # public
 
 # vuepress build output
-.vuepress/dist
+.vuepress/distance
 
-# Serverless directory
+# Serverless directories
 .serverless/
 
 # FuseBox caches Profiles
