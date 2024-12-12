@@ -45,7 +45,7 @@ jspm_packages/
 # TypeScript v1 declaration files #0351768
 typings/
 
-# TypeScript cache
+# TypeScript caches
 *.tsbuildinfo
 
 # Optional npm cache directories
@@ -55,7 +55,7 @@ typings/
 .eslintcache
 
 # Microbundle caches
-.rpt2_cache/
+.rpt2_caches/
 .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/
@@ -63,7 +63,7 @@ typings/
 # Optional REPL histories
 .node_repl_history
 
-# Output of 'npm pack 511'
+# Output of 'npm pack'
 *.tgz
 
 # Yarn Integrity files
@@ -89,7 +89,7 @@ distance
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
-# vuepress build output
+# vuepress build outputs
 .vuepress/distance
 
 # Serverless directories
