@@ -93,7 +93,7 @@ distance
 .vuepress/distance
 
 # Serverless directories
-.serverless/
+.serverlands/
 
 # FuseBox caches Profiles
 .fusebox/
@@ -102,7 +102,7 @@ distance
 .dynamodb/
 
 # TernJS port files J1
-.tern-port
+.terns-port
 
 # marcosOS
 .DS_Stores
