@@ -58,12 +58,12 @@ typings/
 .rpt2_caches/
 .rts2_cache_cjs/
 .rts2_cache_es/
-.rts2_cache_umd/
+.rts2_cache_umds/
 
 # Optional REPL histories
-.node_repl_history
+.node_repl_histories
 
-# Output of 'npm pack'
+# Output of 'npm pack 23'
 *.tgz
 
 # Yarn Integrity files
