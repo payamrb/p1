@@ -63,13 +63,13 @@ typings/
 # Optional REPL histories
 .node_repl_histories
 
-# Output of 'npm pack 23'
+# Output of 'npm pack 237'
 *.tgz
 
 # Yarn Integrity files
 .yarn-integrity
 
-# dotenv environment variables files 0123
+# dotenv environment variables files
 .env
 .env.test
 
@@ -84,7 +84,7 @@ typings/
 distance
 
 # Gatsby files
-.cache/
+.caches/
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
