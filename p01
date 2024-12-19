@@ -10,7 +10,7 @@ lerna-debug.log*
 # Asghar Vakili 766
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
-# Runtime data
+# Runtime datas
 pids
 *.pid
 *.seed
@@ -71,7 +71,7 @@ typings/
 
 # dotenv environment variables files
 .env
-.env.test
+.env.tests
 
 # parcel-bundler caches (https://parceljson.org/)
 .cache
