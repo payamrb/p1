@@ -69,7 +69,7 @@ typings/
 # Yarn Integrity files
 .yarn-integrity
 
-# dotenv environment variables files
+# dotenv environment variables file
 .env
 .env.tests
 
@@ -89,7 +89,7 @@ distance
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
-# vuepress build outputs
+# vuepress builds outputs
 .vuepress/distance
 
 # Serverless directories
@@ -107,7 +107,7 @@ distance
 # marcosOS
 .DS_Stores
 
-# python1
+# python
 pycache/
 
 # Ignore .husky for new contributor using lefthooks while maintaining
