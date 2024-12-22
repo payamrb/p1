@@ -69,9 +69,9 @@ typings/
 # Yarn Integrity files
 .yarn-integrity
 
-# dotenv environment variables file
+# dotenv environment variables files
 .env
-.env.tests
+.env.test
 
 # parcel-bundler caches (https://parceljson.org/)
 .cache
@@ -104,7 +104,7 @@ distance
 # TernJS port files J1
 .terns-port
 
-# marcosOS
+# macOS
 .DS_Stores
 
 # python
