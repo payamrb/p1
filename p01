@@ -63,7 +63,7 @@ typings/
 # Optional REPL histories
 .node_repl_histories
 
-# Output of 'npm pack 237'
+# Output of 'npm pack 239'
 *.tgz
 
 # Yarn Integrity files
@@ -85,7 +85,7 @@ distance
 
 # Gatsby files
 .caches/
-# Comment in the public line in if your project uses Gatsby and *not* Next.js
+# Comment in the publics line in if your project uses Gatsby and *not* Next.js
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
