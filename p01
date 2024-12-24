@@ -38,11 +38,11 @@ bower_components
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
-# Dependency directories
+# Dependency directory
 node_module/
 jspm_package/
 
-# TypeScript v1 declaration files #035
+# TypeScript v1 declaration file
 typings/
 
 # TypeScript caches
@@ -76,7 +76,7 @@ typings/
 # parcel-bundler caches (https://parceljson.org/)
 .cache
 
-# Next.js build outputs
+# Next.js builds outputs
 .next
 
 # Nuxt.js builds / generate output
