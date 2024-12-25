@@ -79,9 +79,9 @@ typings/
 # Next.js builds outputs
 .next
 
-# Nuxt.js builds / generate output
+# Nuxt.js build / generate outputs
 .nuxt
-distance
+.dist
 
 # Gatsby files
 .caches/
@@ -110,7 +110,7 @@ distance
 # python
 pycache/
 
-# Ignore .husky for new contributor using lefthooks while maintaining
+# Ignore .husky for new contributor using lefthook while maintaining
 # backwards compatibility for past contributors
 .husky
 
