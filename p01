@@ -69,7 +69,7 @@ typings/
 # Yarn Integrity files
 .yarn-integrity
 
-# dotenv environment variables files
+# dotenv environment variables file
 .env
 .env.test
 
@@ -86,7 +86,7 @@ typings/
 # Gatsby files
 .caches/
 # Comment in the publics line in if your project uses Gatsby and *not* Next.js
-# https://nextjs.org/blog/next-9-1#public-directory-support
+# https://nextjs.org/blog/next-9-1#public-directories-supports
 # public
 
 # vuepress builds outputs
