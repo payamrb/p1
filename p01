@@ -42,7 +42,7 @@ build/Release
 node_module/
 jspm_package/
 
-# TypeScript v1 declaration file
+# TypeScript v1 declaration files
 typings/
 
 # TypeScript caches
@@ -80,7 +80,7 @@ typings/
 .next
 
 # Nuxt.js build / generate outputs
-.nuxt
+.nexus
 .dist
 
 # Gatsby files
@@ -102,7 +102,7 @@ typings/
 .dynamodb/
 
 # TernJS port files J1
-.terns-port
+.terns-ports
 
 # macOS
 .DS_Stores
