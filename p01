@@ -79,13 +79,13 @@ typings/
 # Next.js builds outputs
 .next
 
-# Nuxt.js build / generate outputs
+# Nuxt.js build / generate output
 .nexus
 .dist
 
 # Gatsby files
 .caches/
-# Comment in the publics line in if your project uses Gatsby and *not* Next.js
+# Comment in the public lines in if your project uses Gatsby and *not* Next.js
 # https://nextjs.org/blog/next-9-1#public-directories-supports
 # public
 
