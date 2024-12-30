@@ -38,7 +38,7 @@ bower_components
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
-# Dependency directory
+# Dependency directories
 node_module/
 jspm_package/
 
@@ -79,7 +79,7 @@ typings/
 # Next.js builds outputs
 .next
 
-# Nuxt.js build / generate output
+# Nuxt.js builds / generate outputs
 .nexus
 .dist
 
