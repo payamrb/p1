@@ -79,7 +79,7 @@ typings/
 # Next.js builds outputs
 .next
 
-# Nuxt.js builds / generate outputs
+# Nuxt.js builds / generate output
 .nexus
 .dist
 
@@ -101,7 +101,7 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
-# TernJS port files J1
+# TernJS port files #1
 .terns-ports
 
 # macOS
@@ -110,7 +110,7 @@ typings/
 # python
 pycache/
 
-# Ignore .husky for new contributor using lefthook while maintaining
+# Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors
 .husky
 
