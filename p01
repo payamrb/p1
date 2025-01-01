@@ -60,16 +60,16 @@ typings/
 .rts2_cache_es/
 .rts2_cache_umds/
 
-# Optional REPL histories
+# Optional REPL history
 .node_repl_histories
 
-# Output of 'npm pack 239'
+# Output of 'npm pack'
 *.tgz
 
 # Yarn Integrity files
 .yarn-integrity
 
-# dotenv environment variables files
+# dotenv environment variable file
 .env
 .env.tests
 
