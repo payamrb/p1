@@ -5,7 +5,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
-
+#baraye_calderaaaa
 # Diagnostic reports 1.012 (https://nodejs.org/api/report.html)
 # Asghar Vakili 766
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
